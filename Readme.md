@@ -105,4 +105,4 @@ The tests will be executed at 11:30PM IST every single day.
 
 The reports will be archieved in gh-pages branch
 You can view the html reports at : 
-https://jatin99.github.io/Test-Automation-Framework/report.html
+https://Vaibhav2299.github.io/Test-Automation-Framework/report.html
