@@ -7,7 +7,7 @@ The framework leverages various libraries and tools to facilitate data-driven te
 
 
 ## 🚀 About Me
-Hi, My Name is Jatin Sharma and I have 10 years of experience in Automation Testing using technologies like Selenium Webdriver,
+Hi, My Name is Vaibhav Kumar and I have 5 years of experience in Automation Testing using technologies like Selenium Webdriver,
 RestAssured, Appium. 
 
 My major expertise is in Java Programming Language.
@@ -15,16 +15,16 @@ My major expertise is in Java Programming Language.
 
 ## Author
 
-- [@jatin99](https://github.com/jatin99)
-- EmailAddress: jatinvsharma@gmail.com
+- [@Vaibhav2299](https://github.com/Vaibhav2299)
+- EmailAddress: svaibhav2299@gmail.com
 
 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jatin99)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Vaihav2299)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinshharma/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavkumar/)
 
 
 
