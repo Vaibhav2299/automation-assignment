@@ -70,7 +70,7 @@ Before running this framework, ensure the following software is installed on you
 **Clone the Repository:**
 
 ```bash
-  git clone https://github.com/jatin99/Test-Automation-Framework.git
+  git clone https://github.com/Vaibhav2299/Test-Automation-Framework.git
 
   cd Test-Automation-Framework
 ```
